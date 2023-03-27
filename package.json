@@ -6,7 +6,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/karatelabs/karate-npm.git"
-  },  
+  },
   "main": "karate.js",
   "scripts": {
     "test": "node test.js",
@@ -15,6 +15,6 @@
   "author": "Peter Thomas",
   "license": "MIT",
   "dependencies": {
-    "@jbangdev/jbang": "^0.1.4"
+    "@jbangdev/jbang": "github:mhamann/jbang-npm#throw-on-error"
   }
 }
