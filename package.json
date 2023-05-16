@@ -18,6 +18,6 @@
   "author": "Peter Thomas",
   "license": "MIT",
   "dependencies": {
-    "@jbangdev/jbang": "github:mhamann/jbang-npm#throw-on-error"
+    "@jbangdev/jbang": "^0.2.0"
   }
 }
