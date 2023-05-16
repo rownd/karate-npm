@@ -13,7 +13,7 @@
   },
   "scripts": {
     "test": "node test.js",
-    "preinstall": "node preinstall.js"
+    "postinstall": "node preinstall.js"
   },
   "author": "Peter Thomas",
   "license": "MIT",
